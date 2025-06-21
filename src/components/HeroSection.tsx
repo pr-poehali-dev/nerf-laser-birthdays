@@ -20,8 +20,10 @@ const HeroSection = () => {
             </span>
           </h1>
 
-          <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Нерф-битвы, лазертаг и адреналин! Сделай свой праздник незабываемым
+          <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto leading-relaxed">
+            Создаем незабываемые дни рождения, где каждый ребенок становится
+            героем собственной истории. Безопасные битвы, настоящая дружба и
+            эмоции, которые запомнятся на всю жизнь!
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
